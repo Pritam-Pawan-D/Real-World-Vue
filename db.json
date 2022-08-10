@@ -30,7 +30,7 @@
         time: "9:00",
         organizer: "Pritam Pawan D",
       },
-      {
+    {
         id: 50332022,
         category: "Travelling",
         title: "Night Trek",
@@ -40,5 +40,5 @@
         time: "19:00",
         organizer: "Pritam Pawan D",
       }
-      ]
+    ]
 }
