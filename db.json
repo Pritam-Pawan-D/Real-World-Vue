@@ -18,7 +18,7 @@
         "location": "Bangalore",
         "date": "September 23 2022",
         "time": "9:00",
-        "organizer": "Pritam Pawan D",
+        "organizer": "Pritam Pawan D"
       },
       {
         "id": 50322022,
@@ -28,7 +28,7 @@
         "location": "Bangalore",
         "date": "September 25 2022",
         "time": "9:00",
-        "organizer": "Pritam Pawan D",
+        "organizer": "Pritam Pawan D"
       },
     {
         "id": 50332022,
@@ -38,7 +38,7 @@
         "location": "Bangalore",
         "date": "September 30 2022",
         "time": "19:00",
-        "organizer": "Pritam Pawan D",
+        "organizer": "Pritam Pawan D"
       }
-    ]
+   ]
 }
