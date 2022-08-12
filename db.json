@@ -39,6 +39,26 @@
         "date": "September 30 2022",
         "time": "19:00",
         "organizer": "Pritam Pawan D"
+      },
+        {
+        "id": 50342022,
+        "category": "Food",
+        "title": "Food Fest",
+        "description": "Find new people who are foodie in this event",
+        "location": "Bangalore",
+        "date": "October 5 2022",
+        "time": "9:00",
+        "organizer": "Pritam Pawan D"
+      },
+        {
+        "id": 50352022,
+        "category": "Cycling",
+        "title": "50KM Cycling",
+        "description": "Find new people who are travel frek in this event",
+        "location": "Bangalore",
+        "date": "October 10 2022",
+        "time": "9:00",
+        "organizer": "Pritam Pawan D"
       }
    ]
 }
